@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramHandin2", "ProgramHandin2\ProgramHandin2.csproj", "{4CC4B1AD-E138-4F17-A899-315E41EE2FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC4B1AD-E138-4F17-A899-315E41EE2FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC4B1AD-E138-4F17-A899-315E41EE2FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC4B1AD-E138-4F17-A899-315E41EE2FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC4B1AD-E138-4F17-A899-315E41EE2FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E002AED-27E2-4106-A235-DC919244CA45}
+	EndGlobalSection
+EndGlobal
